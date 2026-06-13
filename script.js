@@ -1,5 +1,5 @@
 const config = {
-  birthdayPerson: "NAMA",
+  birthdayPerson: "ALIFTA",
   sender: "KAMAL",
 };
 
