@@ -1,7 +1,7 @@
 ## 🚀 Demo
 
 [Click Here
-](https://rbrijesh5.github.io/birthday-template/)
+](https://kamalgrow.github.io/Website_Happy_Birthday_Template/)
 
 ---
 
@@ -11,14 +11,14 @@ A clean, modern and customizable birthday surprise website built with HTML, CSS 
 
 ## ✨ Features
 
-* 🎉 Interactive birthday story experience
-* 🎵 Background music player
-* ❤️ Floating hearts animation
-* 🎈 Balloons animation
-* 🎊 Confetti celebration
-* 📱 Fully responsive design
-* ⚙️ Easy customization
-* 🎨 Modern glassmorphism UI
+- 🎉 Interactive birthday story experience
+- 🎵 Background music player
+- ❤️ Floating hearts animation
+- 🎈 Balloons animation
+- 🎊 Confetti celebration
+- 📱 Fully responsive design
+- ⚙️ Easy customization
+- 🎨 Modern glassmorphism UI
 
 ---
 
@@ -28,8 +28,8 @@ Open `script.js` and update the configuration:
 
 ```javascript
 const config = {
-    birthdayPerson: "BOB",
-    sender: "BRIJESH"
+  birthdayPerson: "BOB",
+  sender: "BRIJESH",
 };
 ```
 
@@ -47,9 +47,9 @@ with your preferred music file.
 
 ## 🛠️ Built With
 
-* HTML5
-* CSS3
-* JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
