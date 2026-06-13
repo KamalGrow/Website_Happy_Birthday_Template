@@ -32,11 +32,11 @@ window.onload = () => {
 
     "Ini adalah hari spesial kamu",
 
-    "tersenyumlah.",
+    "tersenyumlah 😁.",
 
-    "bahagialah.",
+    "bahagialah 🥳.",
 
-    "kamu pasti bisa.",
+    "kamu pasti bisa 😄.",
 
     "kamu kuat kok 💪.",
 
@@ -77,7 +77,7 @@ window.onload = () => {
       nextScene();
 
       setInterval(nextScene, 3000);
-    }, 1000);
+    }, 900);
   });
 
   function nextScene() {
